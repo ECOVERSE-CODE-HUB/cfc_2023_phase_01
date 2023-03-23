@@ -1,10 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
-
-_INSTRUCTIONS: This GitHub repository serves as a template you can use to create a new project for the [2023 Call for Code Global Challenge](https://developer.ibm.com/callforcode/global-challenge/). Use the **Use this template** button to create a new version of this repository and start entering content for your own Call for Code submission project. Make sure you have [registered for the 2023 Call for Code Global Challenge](https://developer.ibm.com/callforcode/global-challenge/register/) to access resources and full project submission instructions. Remove any "INSTRUCTIONS" sections when you are ready to submit your project._
-
-_New to Git and GitHub? This free online course will get you up to speed quickly: [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github)_.
-
-# Replace this heading with your team/submission name
+---
+# DataFort - Verifiable Interoperable Multi-Chain Decentralized Biodiversity AI Compute Hub(In Future Will Be Powered By FHE)
 
 - [Project summary](#project-summary)
   - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
@@ -27,9 +23,18 @@ _New to Git and GitHub? This free online course will get you up to speed quickly
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
-_INSTRUCTIONS: Complete all required deliverable sections below._
-
 ## Project summary
+DataFort is a state-of-an-art platform that is revolutionizing the field of biodiversity research. It accelerates research using cutting-edge AI and blockchain technology, providing a unique set of features that enable scientists to collaborate effectively and securely. The platform is trusted by researchers worldwide to provide innovative solutions to environmental challenges.
+
+One of the most impressive features of DataFort is its use of advanced encryption methods to ensure the highest level of data security. In the future, DataFort will be powered by Fully Homomorphic Encryption (FHE), an encryption method that allows data to be processed while still encrypted. This means that researchers can work with encrypted data, ensuring that sensitive information is always protected. FHE is a cutting-edge technology that is gaining attention in the field of data security. It is a crucial breakthrough that enables researchers to work with sensitive data without compromising security.
+
+DataFort's commitment to privacy and data sovereignty sets it apart from other platforms. The platform is designed to provide complete control over data, ensuring that researchers have full control over their information. This provides confidence to researchers that their data is protected and secure. DataFort is unique in its ability to provide a secure platform that enables researchers to work effectively and collaborate without compromising their data.
+
+The platform's advanced AI capabilities provide researchers with valuable insights, accelerating the progress of research. DataFort's AI algorithms are designed to analyze complex data sets, identify patterns, and provide insights that are not visible to the human eye. This technology enables researchers to make breakthrough discoveries that were previously impossible.
+
+DataFort is transforming the way researchers work and collaborate in the field of biodiversity research. It enables researchers to share data, collaborate effectively and securely, and contribute to creating a more sustainable future. The platform's cutting-edge AI capabilities provide researchers with valuable insights, accelerating the progress of research. With DataFort, researchers from around the world can contribute to a more sustainable future by working together to solve the most pressing environmental challenges.
+
+Overall, DataFort is a game-changing platform that is driving innovation in the field of biodiversity research. Its advanced encryption methods, commitment to privacy and data sovereignty, and cutting-edge AI capabilities make it a unique platform that is transforming the way researchers work and collaborate. It is an awesome and amazing platform that is making a significant impact on the world of biodiversity research. DataFort is a platform that researchers can trust to provide secure and innovative solutions to environmental challenges.
 
 ### The issue we are hoping to solve
 
